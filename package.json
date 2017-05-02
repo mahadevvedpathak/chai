@@ -1,0 +1,15 @@
+{
+  "name": "mochanchai",
+  "version": "1.0.0",
+  "description": "mocha and chai sample code",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha || true"
+  },
+  "author": "sameer vedpathak",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.3.0"
+  }
+}
